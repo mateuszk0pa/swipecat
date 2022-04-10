@@ -1,6 +1,8 @@
 # swipecat
 Fun site of scroling cat
 
+![screen](https://raw.githubusercontent.com/mateuszk0pa/swipecat/screen/screen.png)
+
 > ### License:
 > Copyright (c) 2022 ***[mateuszk0pa](https://github.com/mateuszk0pa)***.
 >
